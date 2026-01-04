@@ -1,6 +1,6 @@
 {
-  "id": "acode.plugin.template",
-  "name": "acode plugin template",
+  "id": "x.shared.completion",
+  "name": "Shared completion",
   "main": "main.js",
   "version": "0.0.1",
   "readme": "readme.md",
@@ -10,15 +10,14 @@
   "files": ["./LICENSE"],
   "price": 0,
   "Keywords": [
-    "Template"
+    "completion",
+    "auto complete"
   ],
   "minVersionCode": 958,
-  "repository": "REPO_URL",
+  "repository": "https://github.com/overskul/acode-sharedCompletion",
   "author": {
-    "name": "USER_NAME",
-    "email": "EMAIL",
-    "url": "URL",
-    "github": "USER_NAME"
+    "name": "overskul",
+    "github": "overskul"
   },
   "contributors": []
 }

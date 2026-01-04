@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "author": "USER_NAME",
+  "author": "overskul",
   "license": "MIT",
   "dependencies": {
     "@types/ace": "^0.0.50",
